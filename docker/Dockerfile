@@ -11,4 +11,4 @@ ARG VARIANT
 RUN [ ! -z "${ARCH}" ]
 RUN [ ! -z "${VERSION}" ]
 
-ADD docker/data
+ADD docker/data/ / 
