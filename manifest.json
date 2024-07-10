@@ -7,10 +7,10 @@
     "image": "flecs.azurecr.io/com.copadata.service-engine",
     "multiInstance": false,
     "env": [
-        "RUNTIME_LICENSING_SERIAL0=C0085-ABC",
-        "RUNTIME_LICENSING_SERIAL0_LOCATION=192.168.1.1",
-        "LOGIC_LICENSING_SERIAL0=C0085-DEF",
-        "LOGIC_LICENSING_SERIAL0_LOCATION=192.168.1.1"
+        "RUNTIME_LICENSING_SERIAL0=",
+        "RUNTIME_LICENSING_SERIAL0_LOCATION=",
+        "LOGIC_LICENSING_SERIAL0=",
+        "LOGIC_LICENSING_SERIAL0_LOCATION="
     ],
     "ports": [
         "1200:1200",
